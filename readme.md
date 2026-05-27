@@ -1,4 +1,4 @@
-# 🌱 Root Intelligence Lab
+# 🌱 Aries Crop Disease Detection System
 
 An AI-powered crop disease detection and analytics platform built using modern frontend technologies. The platform enables users to detect crop diseases, analyze agricultural insights, and manage prediction history through an interactive dashboard interface.
 
